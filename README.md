@@ -1,2 +1,2 @@
 # Bit2cAPI
-API for interacting with the israeli crypto trading platform "Bit2c"
+Python API for interacting with the israeli crypto trading platform [bit2c](https://bit2c.co.il/).
