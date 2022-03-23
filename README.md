@@ -10,7 +10,7 @@ me@home:~$ pip install git+https://github.com/orel98/Bit2cAPI
 
 ```python
 import os
-from Bit2capi.api_client import Bit2c_client
+from Bit2cAPI.api_client import Bit2c_client
 
 key, secret = os.getenv(BIT2CKEY), os.getenv(BIT2C_SECRET)
 
