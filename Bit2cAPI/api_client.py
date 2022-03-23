@@ -8,7 +8,7 @@ from datetime import datetime
 from json.decoder import JSONDecodeError
 
 
-from src.Symbol import Symbol
+from .Symbol import Symbol
 
 
 class Bit2c_client:
