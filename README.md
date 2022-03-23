@@ -5,10 +5,7 @@ Python API for interacting with the israeli crypto trading platform [bit2c](http
 ## USAGE
 
 ```console
-
-me@home:~$ git clone https://github.com/orel98/Bit2cAPI
-me@home:~$ cd Bit2cAPI
-me@home:~$ pip install .
+me@home:~$ pip install git+https://github.com/orel98/Bit2cAPI
 ```
 
 ```python
