@@ -10,6 +10,8 @@ from json.decoder import JSONDecodeError
 
 from .Symbol import Symbol
 
+"debug"
+
 
 class Bit2c_client:
     """class for accessing private methods of bit2c.co.il api"""
